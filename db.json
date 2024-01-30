@@ -1,4 +1,5 @@
 {
+	[
 	"name": "Edificio Pepe",
 	"availability_open": {
 		"sunday":{
@@ -53,5 +54,6 @@
 			"id":"eeeeeeee",
 			"name":"Dpto 5"
 		}
+	]
 	]
 }
