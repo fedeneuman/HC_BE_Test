@@ -36,7 +36,8 @@
 		"places": [
 			{
 				"id":"aaaaaaaaa",
-				"name":"Dpto 1"
+				"name":"Dpto 1",
+				"img":"images/adidas.jpeg"
 			},
 			{
 				"id":"bbbbbbbbb",
