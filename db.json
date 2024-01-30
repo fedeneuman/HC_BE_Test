@@ -37,23 +37,27 @@
 			{
 				"id":"aaaaaaaaa",
 				"name":"Dpto 1",
-				"img":"images/adidas.jpeg"
+				"img":"images/mc.png"
 			},
 			{
 				"id":"bbbbbbbbb",
-				"name":"Dpto 2"
+				"name":"Dpto 2",
+				"img":"images/burguerking.png"
 			},
 			{
 				"id":"cccccccc",
-				"name":"Dpto 3"
+				"name":"Dpto 3",
+				"img":"images/adidas.jpeg"
 			},
 			{
 				"id":"ddddddd",
-				"name":"Dpto 4"
+				"name":"Dpto 4",
+				"img":"images/mc.png"
 			},
 			{
 				"id":"eeeeeeee",
-				"name":"Dpto 5"
+				"name":"Dpto 5",
+				"img":"images/burguerking.png"
 			}
 		]
 	}
