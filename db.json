@@ -1,57 +1,59 @@
 {
-	"name": "Edificio Pepe",
-	"availability_open": {
-		"sunday":{
-			"open": "00:00",
-			"closed": "23:59"
+	"edificio": {
+		"name": "Edificio Pepe",
+		"availability_open": {
+			"sunday":{
+				"open": "00:00",
+				"closed": "23:59"
+			},
+			"monday":{
+				"open": "00:00",
+				"closed": "23:59"
+			},
+			"tuesday":{
+				"open": "00:00",
+				"closed": "23:59"
+			},
+			"wednesday":{
+				"open": "00:00",
+				"closed": "23:59"
+			},
+			"thursday":{
+				"open": "00:00",
+				"closed": "23:59"
+			},
+			"friday":{
+				"open": "00:00",
+				"closed": "23:59"
+			},
+			"saturday":{
+				"open": "00:00",
+				"closed": "23:59"
+			}
 		},
-		"monday":{
-			"open": "00:00",
-			"closed": "23:59"
-		},
-		"tuesday":{
-			"open": "00:00",
-			"closed": "23:59"
-		},
-		"wednesday":{
-			"open": "00:00",
-			"closed": "23:59"
-		},
-		"thursday":{
-			"open": "00:00",
-			"closed": "23:59"
-		},
-		"friday":{
-			"open": "00:00",
-			"closed": "23:59"
-		},
-		"saturday":{
-			"open": "00:00",
-			"closed": "23:59"
-		}
-	},
-	"notes": true,
-	"photo": true,
-	"places": [
-		{
-			"id":"aaaaaaaaa",
-			"name":"Dpto 1"
-		},
-		{
-			"id":"bbbbbbbbb",
-			"name":"Dpto 2"
-		},
-		{
-			"id":"cccccccc",
-			"name":"Dpto 3"
-		},
-		{
-			"id":"ddddddd",
-			"name":"Dpto 4"
-		},
-		{
-			"id":"eeeeeeee",
-			"name":"Dpto 5"
-		}
-	]
+		"notes": true,
+		"photo": true,
+		"places": [
+			{
+				"id":"aaaaaaaaa",
+				"name":"Dpto 1"
+			},
+			{
+				"id":"bbbbbbbbb",
+				"name":"Dpto 2"
+			},
+			{
+				"id":"cccccccc",
+				"name":"Dpto 3"
+			},
+			{
+				"id":"ddddddd",
+				"name":"Dpto 4"
+			},
+			{
+				"id":"eeeeeeee",
+				"name":"Dpto 5"
+			}
+		]
+	}
 }
