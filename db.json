@@ -1,6 +1,6 @@
 {
 	"edificio": {
-		"name": "Edificio Pepe",
+		"name": "Edificio Inteligente",
 		"availability_open": {
 			"sunday":{
 				"open": "00:00",
@@ -36,28 +36,33 @@
 		"places": [
 			{
 				"id":"aaaaaaaaa",
-				"name":"Dpto 1",
+				"name":"1 A",
 				"img":"images/mc.png"
 			},
 			{
 				"id":"bbbbbbbbb",
-				"name":"Dpto 2",
+				"name":"1 B",
 				"img":"images/burguerking.png"
 			},
 			{
 				"id":"cccccccc",
-				"name":"Dpto 3",
+				"name":"1 C",
 				"img":"images/adidas.jpeg"
 			},
 			{
 				"id":"ddddddd",
-				"name":"Dpto 4",
+				"name":"2 A",
 				"img":"images/mc.png"
 			},
 			{
 				"id":"eeeeeeee",
-				"name":"Dpto 5",
+				"name":"2 B",
 				"img":"images/burguerking.png"
+			},
+			{
+				"id":"ffffffff",
+				"name":"2 C",
+				"img":"images/negro.jpg"
 			}
 		]
 	}
