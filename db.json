@@ -51,17 +51,17 @@
 			},
 			{
 				"id":"ddddddd",
-				"name":"2 A",
+				"name":"Informar Argentina",
 				"img":"images/mc.png"
 			},
 			{
 				"id":"eeeeeeee",
-				"name":"2 B",
+				"name":"Correo Argentino",
 				"img":"images/burguerking.png"
 			},
 			{
 				"id":"ffffffff",
-				"name":"2 C",
+				"name":"Mercado Libre",
 				"img":"images/negro.jpg"
 			}
 		]
