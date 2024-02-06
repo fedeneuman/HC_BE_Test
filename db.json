@@ -37,32 +37,32 @@
 			{
 				"id":"aaaaaaaaa",
 				"name":"1 A",
-				"img":"images/mc.png"
+				"img":"images/puerta1.jpg"
 			},
 			{
 				"id":"bbbbbbbbb",
 				"name":"1 B",
-				"img":"images/burguerking.png"
+				"img":"images/puerta2.jpg"
 			},
 			{
 				"id":"cccccccc",
 				"name":"1 C",
-				"img":"images/adidas.jpeg"
+				"img":"images/puerta3.jpg"
 			},
 			{
 				"id":"ddddddd",
-				"name":"Informar Argentina",
-				"img":"images/mc.png"
+				"name":"Hola-C",
+				"img":""
 			},
 			{
 				"id":"eeeeeeee",
 				"name":"Correo Argentino",
-				"img":"images/burguerking.png"
+				"img":"images/correoArgentino.png"
 			},
 			{
 				"id":"ffffffff",
 				"name":"Mercado Libre",
-				"img":"images/negro.jpg"
+				"img":"images/mercadoLibre.png"
 			}
 		]
 	}
