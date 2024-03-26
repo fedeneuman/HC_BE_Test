@@ -8,17 +8,17 @@
 			{
 				"id":"aaaaaaaaa",
 				"name":"1 A",
-				"img":"images/puerta1.jpg"
+				"img":""
 			},
 			{
 				"id":"bbbbbbbbb",
 				"name":"1 B",
-				"img":"images/puerta2.jpg"
+				"img":""
 			},
 			{
 				"id":"cccccccc",
 				"name":"1 C",
-				"img":"images/puerta3.jpg"
+				"img":""
 			},
 			{
 				"id":"ddddddd",
@@ -28,7 +28,7 @@
 			{
 				"id":"eeeeeeee",
 				"name":"Correo Argentino",
-				"img":"images/correoArgentino.png"
+				"img":""
 			},
 			{
 				"id":"ffffffff",
